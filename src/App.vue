@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <AppNavbar />
-    
     <div style="margin-top: 80px;">
       <homePortf />
      
@@ -10,13 +8,11 @@
 </template>
 
 <script>
-import AppNavbar from './components/AppNavbar.vue';
 import homePortf from './components/homePortf.vue';
 
 export default {
   name: 'App',
   components: {
-    AppNavbar,
     homePortf
   }
 }

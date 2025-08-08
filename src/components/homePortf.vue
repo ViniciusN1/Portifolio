@@ -4,8 +4,8 @@
         <li class="ruaDeCasa"><a href="">Rua José Alves Ribeiro, 25 - Vila Paraiso</a></li>
         
         <div class="juntos">
-            <a href=""><h4>Aquidauana - MS </h4></a>
-            <a href="" class="distanciaPrimeiro"><h4>(67) 9 9118 - 7801</h4></a>
+            <a href="https://www.google.com/search?q=aquidauana&sca_esv=0e0f0e34ec054157&sxsrf=AE3TifNK_CAOh2anA1LQ_ISrLR9K4B5lAQ%3A1754680704913&source=hp&ei=gE2WaOvwNZO75OUPmaOmyAQ&iflsig=AOw8s4IAAAAAaJZbkDqbwVa_wOWQ5AU90ITKcZyHfdJW&gs_ssp=eJzj4tVP1zc0TKpIN0jPMUo2YPTiSiwszUxJLE3MSwQAcjEItw&oq=aquidau&gs_lp=Egdnd3Mtd2l6IgdhcXVpZGF1KgIIADIIEC4YgAQYsQMyDhAuGIAEGMcBGI4FGK8BMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyDhAuGIAEGMcBGI4FGK8BMgUQABiABDIFEC4YgARIkR1QiwNYhxFwAXgAkAEAmAGhAaAB6geqAQMwLje4AQHIAQD4AQGYAgigArUIqAIKwgIHECMYJxjqAsICBBAjGCfCAhAQLhiABBjRAxjHARgnGIoFwgIKECMYgAQYJxiKBcICChAjGPAFGCcYyQLCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAcICCxAAGIAEGLEDGMkDwgILEAAYgAQYkgMYigXCAg4QABiABBixAxiDARiKBcICCxAAGIAEGLEDGIMBmAML8QU4sqn5lbOPGpIHAzEuN6AHt2ayBwMwLje4B6kIwgcFMi00LjTIB0E&sclient=gws-wiz"><h4>Aquidauana - MS </h4></a>
+            <a href="https://wa.me/qr/JYANO5MHCBXWJ1 " class="distanciaPrimeiro"><h4>(67) 9 9118 - 7801</h4></a>
             <a href="" class="distanciaSegundo"><h4>F94nunes@gmail.com</h4></a>
         </div>
         <h4 class="minhaIdade">26 anos | Solteiro</h4>
@@ -173,7 +173,7 @@ a:hover {
 }
 
 .juntos {
-  display: flex;
+  display: center;
   gap: 20px;
   flex-wrap: wrap;
   margin: 10px 0;
